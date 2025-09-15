@@ -8,5 +8,4 @@
 
 print("Hello, world!")
 printf("My name is Thomas")
-printf(" My favorite hobby is playing soccwe")
-
+printf(" My favorite hobby is playing soccer")
